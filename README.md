@@ -1,1 +1,1 @@
-PyEnvManager-current-version:0.5.4
+PyEnvManager-current-version:0.5.5
